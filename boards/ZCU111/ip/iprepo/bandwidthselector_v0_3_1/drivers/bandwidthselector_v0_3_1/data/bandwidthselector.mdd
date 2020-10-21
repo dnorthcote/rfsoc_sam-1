@@ -1,0 +1,8 @@
+OPTION psf_version = 2.1;
+BEGIN driver bandwidthselector
+ OPTION supported_peripherals = (bandwidthselector_v0_3_1);
+ OPTION driver_state = ACTIVE;
+ OPTION copyfiles = all;
+ OPTION name = bandwidthselector;
+ OPTION version = 0.3.1;
+END driver

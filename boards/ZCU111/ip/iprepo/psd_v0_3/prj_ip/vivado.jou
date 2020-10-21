@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Oct 15 20:02:07 2020
+# Process ID: 28072
+# Current directory: C:/GitHub/rfsoc_sam/projects/spectrum_analyzer/models/fft/hdl_prj/ipcore/psd_v0_3/prj_ip
+# Command line: vivado.exe -mode batch -notrace -source vivado_ip_package.tcl
+# Log file: C:/GitHub/rfsoc_sam/projects/spectrum_analyzer/models/fft/hdl_prj/ipcore/psd_v0_3/prj_ip/vivado.log
+# Journal file: C:/GitHub/rfsoc_sam/projects/spectrum_analyzer/models/fft/hdl_prj/ipcore/psd_v0_3/prj_ip\vivado.jou
+#-----------------------------------------------------------
+source vivado_ip_package.tcl -notrace
